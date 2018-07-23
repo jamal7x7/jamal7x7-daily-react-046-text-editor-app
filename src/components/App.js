@@ -3,7 +3,7 @@ import '../styles/App.css'
 
 const Header = () => (
   <header className='App-header'>
-    <h1 className='App-title'>Graph Plotting App</h1>
+    <h1 className='App-title'>Text Editor App</h1>
   </header>
 )
 
@@ -27,7 +27,7 @@ const Menu = (props) => (
   </div>
 )
 
-class GraphPlottingApp extends Component {
+class TextEditorApp extends Component {
   
   state = {
 
@@ -69,7 +69,7 @@ class GraphPlottingApp extends Component {
 const App = (props) => (
   <div className='App'>
     <Header />
-    <GraphPlottingApp />
+    <TextEditorApp />
 
   </div>
 )
