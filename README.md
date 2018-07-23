@@ -1,8 +1,8 @@
-## Daily-react-039-graph-plotting-app 
+## Daily-react-046-text-editor-app
 
-> Challenge: create an app to plot the graph of a function.
+> Challenge: create a text editor app.
 
-Work in progress: https://github.com/jamal7x7/daily-react-039-graph-plotting-app 
+Work in progress: https://github.com/jamal7x7/daily-react-046-text-editor-app 
 
 
 Roadmap:
@@ -15,7 +15,7 @@ Roadmap:
 
 ---
 
-![Alt text](/src/images/daily-react-039-graph-plotting-app.png?raw=true "App UI")
+![Alt text](/src/images/daily-react-046-text-editor-app.png?raw=true "App UI")
 
 ---
 
